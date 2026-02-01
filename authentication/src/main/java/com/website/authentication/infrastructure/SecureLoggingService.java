@@ -1,10 +1,7 @@
-package com.website.authentication.service;
-
-import com.website.authentication.configuration.LogEvent;
-
-import org.slf4j.LoggerFactory;
+package com.website.authentication.infrastructure;
 
 import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 import java.util.Map;
 

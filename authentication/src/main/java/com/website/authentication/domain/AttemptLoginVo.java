@@ -1,4 +1,4 @@
-package com.website.authentication.model;
+package com.website.authentication.domain;
 
 import lombok.Data;
 

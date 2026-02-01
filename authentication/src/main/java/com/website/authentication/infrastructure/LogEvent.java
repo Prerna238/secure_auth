@@ -1,4 +1,4 @@
-package com.website.authentication.configuration;
+package com.website.authentication.infrastructure;
 
 import lombok.Getter;
 
